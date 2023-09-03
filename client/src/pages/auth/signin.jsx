@@ -38,10 +38,10 @@ const Signin = () => {
                             <form action="#" method="POST" className="mt-8 space-y-4">
                                 <div>
                                     <label for="" className="sr-only">
-                                        User ID
+                                        Email
                                     </label>
                                     <div>
-                                        <input type="text" name="" id="" placeholder="Organization ID"
+                                        <input type="text" name="" id="" placeholder="e.g iamemail@email.com"
                                             className="block w-full px-5 py-4 text-base text-white placeholder-gray-500 bg-black rounded-md focus:border-white focus:ring-1 focus:ring-white" />
                                     </div>
                                 </div>
